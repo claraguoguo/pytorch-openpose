@@ -6,3 +6,6 @@ hiddenlayer/
 __pycache__
 *.prototxt
 videos/
+my_data/
+venv/*
+kimore_test/
